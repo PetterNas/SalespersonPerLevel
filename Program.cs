@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace L002B_Inl2_PetterNaslund
+namespace CheckSalesPersonsPerLevel
 {
     class Program
     {
